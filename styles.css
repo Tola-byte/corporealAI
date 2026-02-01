@@ -926,7 +926,7 @@ button {
   }
 
   .theme-toggle {
-    display: none;
+    display: inline-flex;
   }
 
   .hero-metrics {
